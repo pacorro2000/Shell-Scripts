@@ -1,4 +1,4 @@
 Shell Scripts
 =============
 
-Small and useful bash scripts for administering a UNIX system.
+Small and useful bash scripts for administering a UNIX system
