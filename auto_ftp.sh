@@ -10,7 +10,7 @@
 #
 # Creado por: Francisco R. Reyes Gutierrez
 # Fecha: 22 de mayo de 2013
-#
+
 
 ftp abc.mydomain.com << endl
 prompt
